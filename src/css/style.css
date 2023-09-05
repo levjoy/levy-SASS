@@ -18,7 +18,7 @@
     color: #ffffff; }
 
 body {
-  font: 100% Menlo;
+  font: 100% Menlo, mono;
   margin: 0;
   padding: 0;
   color: #333333;
