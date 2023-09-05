@@ -1,14 +1,11 @@
 {
-  "name": "11ty-sass",
+  "name": "levjoy",
   "version": "1.0.0",
-  "description": "11ty starter template with SASS support and Dark Mode.",
+  "description": "Josh Levy's website",
   "keywords": [
-    "11ty",
-    "SASS",
-    "SCSS",
-    "eleventy"
+
   ],
-  "author": "Nikita Zanella",
+  "author": "Josh Levy",
   "license": "ISC",
   "scripts": {
     "watch:sass": "node-sass --watch src/sass -o src/css",
